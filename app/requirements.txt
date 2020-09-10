@@ -1,0 +1,5 @@
+aerich
+asyncpg
+fastapi
+tortoise-orm
+uvicorn
